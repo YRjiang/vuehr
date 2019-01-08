@@ -20,7 +20,7 @@
 
           <el-button type="primary" size="mini" icon="el-icon-plus"
                      @click="showAddMenuView">
-            添加员工
+            添加菜单
           </el-button>
 
           <el-button type="primary" size="mini" icon="el-icon-plus"
